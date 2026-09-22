@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Raid Almesbahy 👋
 
-<!--
-**raidAhmed/raidAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior .NET Backend Engineer | FinTech | Distributed Systems
 
-Here are some ideas to get you started:
+I build scalable backend systems and financial platforms using
+.NET, ASP.NET Core, Microservices, and Event-Driven Architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 4+ years of professional .NET experience
+- 500K+ users served by financial systems
+- 50+ microservices
+- 30+ financial providers integrated
+- 200K+ notifications/day
+- Up to 50% performance improvement
+
+## 🛠️ Tech Stack
+
+C# · .NET · ASP.NET Core · SQL Server · EF Core
+RabbitMQ · gRPC · REST APIs · DDD · CQRS
+Docker · Kubernetes · Azure · Git · CI/CD
+
+## 💼 Featured Projects
+
+### Easy Wallet
+Financial technology platform supporting digital financial operations.
+
+### Financial Fees & Commission Engine
+...
+
+### Event-Driven Financial Messaging
+...
+
+### Multi-Channel Notification System
+...
+
+### Mansouri Store
+...
+
+## 📫 Contact
+
+[LinkedIn](...)
+[GitHub](...)
