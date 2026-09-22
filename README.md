@@ -252,12 +252,37 @@ Technologies
 
 ---
 
-📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raidAhmed&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raidAhmed&layout=compact&hide_border=true&langs_count=8" height="170" />
-</p>---
+  <a href="https://github.com/raidAhmed">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=raidAhmed&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"
+      alt="Raid Almesbahy GitHub Statistics"
+      height="180"
+    />
+  </a>
+
+  <a href="https://github.com/raidAhmed">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=raidAhmed&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400"
+      alt="Raid Almesbahy Most Used Languages"
+      height="180"
+    />
+  </a>
+</p>
+
+<br>
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=raidAhmed&hide_border=true"
+    alt="Raid Almesbahy GitHub Activity Graph"
+    width="100%"
+  />
+</p>
 
 🔥 GitHub Streak
 
